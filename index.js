@@ -1,5 +1,3 @@
-// Gregory Tomchuk, Web Development Periods 7-8 Even, Due on 2/2/23.
-
 /* Tools: code editor, browser, command line utility, 
 application and server utility, API platform
 */
@@ -102,7 +100,7 @@ app.delete('/api/genres/:id', (req,res)=>{
 });
 
 /* Reflection
-    1) The POSTMAN app communicates with the local host from my JavaScript express.
+    1) The POSTMAN app communicates with the local host from JavaScript Express.js.
     2) One thing I learned in this project is using HTTP requests and using an app like POSTMAN.
-    3) One thing I can do to advance this project is build the front end of the music app.
+    3) One thing I can do to advance this project is build the front end of the music app, and use an actual database to store the music data.
 */

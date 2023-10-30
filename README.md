@@ -1,4 +1,4 @@
-# HTTP Backend Project - 20 points #
+# Music App Backend
 
 ## Directions: ## 
 Build the back end service of a music app. The app organizes its content by genres: pop, hip hop, rap, classical, rock, jazz, blues, and electronic. 
